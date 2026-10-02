@@ -1,0 +1,8 @@
+{
+  "name": "Remix MakeVidsAI - AI Video Creation Platform",
+  "description": "Turn your ideas, scripts, and images into professional videos in minutes. Support for up to 30-minute videos, scene orchestration, AI voice, and custom styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
